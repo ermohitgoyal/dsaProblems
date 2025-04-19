@@ -1,0 +1,15 @@
+/Users/mohitgoyal/Documents/Projects/dsaProblems/bin/Debug/net6.0/dsaProblems
+/Users/mohitgoyal/Documents/Projects/dsaProblems/bin/Debug/net6.0/dsaProblems.deps.json
+/Users/mohitgoyal/Documents/Projects/dsaProblems/bin/Debug/net6.0/dsaProblems.runtimeconfig.json
+/Users/mohitgoyal/Documents/Projects/dsaProblems/bin/Debug/net6.0/dsaProblems.dll
+/Users/mohitgoyal/Documents/Projects/dsaProblems/bin/Debug/net6.0/dsaProblems.pdb
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.csproj.AssemblyReference.cache
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.AssemblyInfoInputs.cache
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.AssemblyInfo.cs
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.csproj.CoreCompileInputs.cache
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.dll
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/refint/dsaProblems.dll
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.pdb
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/dsaProblems.genruntimeconfig.cache
+/Users/mohitgoyal/Documents/Projects/dsaProblems/obj/Debug/net6.0/ref/dsaProblems.dll
